@@ -1,4 +1,4 @@
-Issue #[11054](https://github.com/remix-run/react-router/issues/11054)
+Issue [#11054](https://github.com/remix-run/react-router/issues/11054)
 
 For reproducing issue:
 
